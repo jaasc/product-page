@@ -31,8 +31,6 @@ Users should be able to:
 
 - Live Site URL: [Live site](https://jaasc.github.io/product-page/)
 
-## My process
-
 ### Built with
 
 - Semantic HTML5 markup
